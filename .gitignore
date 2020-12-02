@@ -1,0 +1,14 @@
+/.idea/*
+*/target/
+/target/
+/target/*
+*.project
+*.classpath
+*.settings
+*.mvn
+*.springBeans
+.project
+*.iml
+*.log*
+*.bak
+*.idea
